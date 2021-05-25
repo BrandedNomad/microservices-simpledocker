@@ -6,7 +6,6 @@ A Super simple NODE.js server
 
 I wanted to learn how to write a basic Dockerfile, create a docker image, and how to run it inside of a docker container.
 
-
 ## Tech/Framework Used
 
 Build with:
